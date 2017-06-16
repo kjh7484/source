@@ -1,4 +1,4 @@
-package testpkg;
+﻿package testpkg;
 
 public class TestGit {
 
@@ -6,6 +6,7 @@ public class TestGit {
 		String a = "하이자바";
 		String b = "GIT";
 		String c = a+b;
+		int a = 10;
 
 	}
 
