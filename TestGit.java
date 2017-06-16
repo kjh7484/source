@@ -7,7 +7,5 @@ public class TestGit {
 		String b = "GIT";
 		String c = a+b;
 		int a = 10;
-
 	}
-
 }
